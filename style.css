@@ -28,35 +28,22 @@ h1 {
 
 .container {
     margin: auto;
-    width: 29vw;
-    height: 65vh;
+    width: 21vw;
+    height: 51vh;
     background-color: rgba(97, 74, 45, 0.336);
-
 }
 
 
 .box {
-
     width: 89px;
-
     height: 98px;
-
     margin: 5px;
-
     border: none;
-
     border-radius: 6px;
-
     background-color: rgba(92, 0, 240, 0.226);
-
     font-size: 30px;
-
-    gap: 0px;
-
     color: black;
-
     margin: 0px;
-
     margin-top: 2px;
 }
 
